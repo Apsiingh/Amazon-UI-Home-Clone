@@ -1,1 +1,1 @@
-# amazon-clone
+# Amazon UI Home Page Clone
